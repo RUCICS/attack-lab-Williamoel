@@ -23,7 +23,7 @@ print("Payload successfully written to ans1.txt")
 Do you like ICS?
 Yes!I like ICS!
 ```
-
+![Problem1结果](1.png)
 ---
 
 ### Problem 2:
@@ -48,7 +48,7 @@ Do you like ICS?
 Welcome to the second level!
 Yes!I like ICS!
 ```
-
+![Problem2结果](2.png)
 ---
 
 ### Problem 3: 
@@ -76,7 +76,7 @@ Now, say your lucky number is 114!
 If you do that, I will give you great scores!
 Your lucky number is 114
 ```
-
+![Problem3结果](3.png)
 ---
 
 ### Problem 4: 
@@ -115,7 +115,7 @@ if you give me enough yuanshi,I will let you pass!
 your money is 4294967295
 great!I will give you great scores
 ```
-
+![Problem4结果](4.png)
 
 ## 思考与总结
 在本次实验中，我从基础的栈空间覆盖开始，逐步接触到了更复杂的防御机制及其应对方案。
